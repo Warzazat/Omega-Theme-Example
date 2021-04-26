@@ -42,8 +42,8 @@
       "BackgroundOdd": "fafafa",
       "BackgroundEven": "ffffff",
       "EmptyBox": "c4c4c4",
-      "EmptyBoxNeeded": "a81928",
-      "TrigoAndComplexForeground": "ff000c"
+      "EmptyBoxNeeded": "9370DB",
+      "TrigoAndComplexForeground": "9370DB"
     },
     "Code": {
       "Background": "ffffff",
@@ -52,7 +52,7 @@
       "Comment": "999988",
       "Number": "009999",
       "Keyword": "ff000c",
-      "Operator": "d73a49",
+      "Operator": "9370db",
       "String": "032f62",
       "GutterViewBackground": "E4E6E7"
     },
@@ -62,9 +62,9 @@
       "HistogramBar": "d9d9d9"
     },
     "Statistics": {
-      "Box": "a81928",
+      "Box": "9370DB",
       "BoxVerticalLine": "d9d9d9",
-      "Selected": "a81928",
+      "Selected": "9370DB",
       "NotSelected": "f5f5f5"
     },
     "Graph": {
